@@ -1,12 +1,5 @@
-# Text AI Projekt
-
-Krátký popis: tento repozitář obsahuje soubor `text.py` a základní projektové soubory.
-
-## Jak spustit
-```bash
-python3 text.py
-```
-
+ios cybersecurity simulator 
+ompen text.py in pythonista on ios
 ## Struktura
 - `text.py` – hlavní skript
 - `LICENSE` – licence MIT
