@@ -1,5 +1,5 @@
 ios cybersecurity simulator 
-ompen text.py in pythonista on ios
+open cyberdrill_pythonista_4_0.py in pythonista on ios
 ## Struktura
 - `cyberdrill_pythonista_4_0.py` – hlavní skript
 - `LICENSE` – licence MIT
